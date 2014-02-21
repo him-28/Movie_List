@@ -1,0 +1,114 @@
+body
+{
+font-family: Times New Roman",Georgia,Serif;
+background: url(http://oscarroadtrip.com/wp-content/uploads/2013/01/movies.jpg);
+}
+
+
+table
+{
+border-collapse: collapse;
+margin-bottom: 3em;
+font-size: 100%;
+}
+
+tr:hover, td.start:hover
+{
+background: #F0F8FF;
+}
+
+th.Movie { width: 10em; }
+th.Release_Date { width: 10em; }
+th.MPAA_Rating { width: 10em; }
+
+thead th
+{
+background: div.header{
+background-color:#483D8B;
+text-align: center;
+vertical-align: middle;
+line-height: 90px;
+}
+
+div.menu{
+background-color:#483D8B;
+height:90%;
+width:20%;
+float:left;
+text-align:center;
+}
+
+div.content{
+background-color:#483D8B;
+height:90%;
+width:80%;
+float:left;
+text-align:center;
+color:#0000FF;
+};
+border-color: #fff #fff #888 #fff;
+border-style: solid;
+border-width: 1px 1px 2px 1px;
+padding-left: .5em;
+}
+
+
+
+h1
+{
+margin-bottom:0;
+background-color:#483D8B;
+text-align:center;
+text-transform:uppercase;
+text-decoration:underline;
+}
+
+h1.head
+{
+margin-bottom:0;
+text-align:center;
+}
+
+div.contain{
+width:100%;
+height:100%;
+float:top;
+background-color:#483D8B;
+
+}
+
+
+
+
+
+img.moviepost{
+width: 250px;
+height: 250px;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+img.childimage{
+width: 350px;
+height: 350px;
+display: block;
+margin-left: auto;
+margin-right: auto
+}
+
+
+a:link.linkparent1{
+text-align: center;
+text-decoration:underline;
+}
+
+a:link.linkparent{
+text-align: center;
+text-decoration:underline;
+}
+
+
+
+
+

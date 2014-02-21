@@ -1,0 +1,30 @@
+div.header{
+background-color:#483D8B;
+text-align: center;
+vertical-align: middle;
+line-height: 90px;
+}
+
+div.menu{
+background-color:#483D8B;
+height:90%;
+width:20%;
+float:left;
+text-align:center;
+}
+
+div.content{
+background-color:#483D8B;
+height:90%;
+width:80%;
+float:left;
+text-align:center;
+color:#0000FF;
+}
+
+tbody.ratingrelease{
+text-align: center;
+background: #483D8B;
+font-size: 150%;
+font-weight:bold;
+}
